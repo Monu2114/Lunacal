@@ -10,6 +10,13 @@ export default {
         button: "#4A4E54",
         font: "#969696",
       },
+      backgroundImage: {
+        "custom-gradient":
+          "linear-gradient(180deg, #373E44 -100%, #191B1F 100%)",
+      },
+      fontFamily: {
+        poppins: ["Poppins", "sans-serif"],
+      },
     },
   },
   plugins: [],
