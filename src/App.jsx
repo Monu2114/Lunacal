@@ -24,7 +24,7 @@ function App() {
             <button className="font-medium	bg-button text-white text-xs w-[120px] h-[40px] rounded-2xl shadow-xl">
               + ADD IMAGE
             </button>
-            <div className="flex flex-start">
+            <div className="flex ">
               <img src="src\assets\left.svg" alt="" className="w-20 h-20" />
               <img src="src\assets\right.svg" alt="" className="w-20 h-20" />
             </div>
