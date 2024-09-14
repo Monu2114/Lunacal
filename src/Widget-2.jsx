@@ -33,7 +33,7 @@ export default function Widget2() {
 
 "
       >
-        <img src="src\assets\box.svg" className="w-8 h-8 " alt="" />
+        <img src="public/assets/box.svg" className="w-8 h-8 " alt="" />
         {img_arr.map((img, index) => (
           <Image key={index} url={img} alt="image" />
         ))}
